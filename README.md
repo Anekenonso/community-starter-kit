@@ -1,12 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+ **Description**
 
-## What it does
+-  this repository represents a probot app
+-  its a working repository
 
-FEATURES PLACEHOLDER
+**What is does**
 
-## Getting started
+-  a bot app that welcome new contributor and members
+-  a bot that interacts with members
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
