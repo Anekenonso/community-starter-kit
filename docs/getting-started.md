@@ -36,3 +36,7 @@ firstPRMergeComment: >
 ### Example Messages
 
 CONFIGS PLACEHOLDER
+
+-  welcome to config, star this repository
+-  fork this repository
+-  and contibute
